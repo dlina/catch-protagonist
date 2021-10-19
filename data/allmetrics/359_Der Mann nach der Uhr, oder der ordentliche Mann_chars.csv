@@ -1,0 +1,7 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+VALER,0.0,5,1.0,1.0,16,0.46973693992870696,1.0,1.0,7,56,880,41,4943,1.0,1.0,1.0,2.0,2.0,4.0,4.0,4.0,2.375,0.17598574414666987,4.0,3.0,2.0,3.0,2.5,1.0
+JOHANN,0.0,5,1.0,1.0,17,0.49008751889718066,1.0,1.0,8,45,813,33,4427,1.0,1.0,1.0,1.0,1.0,3.0,5.0,5.0,2.25,0.22903134532822608,3.0,4.0,1.0,4.0,2.5,1.0
+HERR ORBIL,0.0,5,1.0,1.0,16,0.4288293486952784,1.0,1.0,10,154,5214,69,28896,1.0,1.0,1.0,2.0,4.0,1.0,1.0,1.0,1.5,0.1336306209562122,1.0,2.0,4.0,1.0,2.5,1.0
+WILHELMINE,0.0,5,1.0,1.0,11,0.3233866697415188,1.0,1.0,6,59,666,54,3558,1.0,1.0,1.0,5.0,5.0,5.0,3.0,6.0,3.375,0.2667387365408867,5.0,5.0,5.0,5.0,5.0,5.0
+DER MAGISTER,0.0,5,1.0,1.0,8,0.23431546886261231,1.0,1.0,3,43,1308,20,7402,1.0,1.0,1.0,6.0,6.0,6.0,6.0,3.0,3.75,0.31160586368955623,6.0,6.0,6.0,6.0,6.0,6.0
+LISETTE,0.0,5,1.0,1.0,16,0.44247502039142,1.0,1.0,10,108,1546,80,8405,1.0,1.0,1.0,2.0,3.0,1.0,2.0,2.0,1.625,0.09300297614285562,2.0,1.0,3.0,2.0,2.5,1.0
