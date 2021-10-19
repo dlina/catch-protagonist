@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+LISEI,0.0,3,1.0,1.0,9,0.5671204994069623,1.0,1.0,5,35,1183,107,5553,1.0,1.0,1.0,1.0,1.0,1.0,3.0,2.0,1.375,0.09300297614285562,1.0,1.0,1.0,1.0,1.0,1.0
+SEPP,0.0,3,1.0,1.0,5,0.3528987586507014,1.0,1.0,2,37,1352,61,6715,1.0,1.0,1.0,4.0,4.0,4.0,2.0,1.0,2.25,0.18600595228571123,4.0,4.0,4.0,2.0,3.0,3.0
+GIRGL,0.0,3,1.0,1.0,9,0.5671204994069623,1.0,1.0,4,31,1098,104,5430,1.0,1.0,1.0,1.0,1.0,2.0,4.0,3.0,1.75,0.1456205931276794,2.0,2.0,1.0,4.0,2.5,2.0
+FÖRSTER,0.0,3,1.0,1.0,7,0.48188291570420816,1.0,1.0,3,55,1089,41,5338,1.0,1.0,1.0,3.0,3.0,3.0,1.0,4.0,2.125,0.15580293184477811,3.0,3.0,3.0,3.0,3.0,3.0
