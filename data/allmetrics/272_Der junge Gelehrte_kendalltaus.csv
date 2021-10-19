@@ -1,0 +1,9 @@
+rank_name,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank
+degree_rank,,,,,,,,
+closeness_rank,,,,,,,,
+betweenness_rank,,,,,,,,
+strength_rank,,,,,1.0,1.0,0.8857142857142857,0.7714285714285715
+eigenvector_centrality_rank,,,,1.0,,1.0,0.8857142857142857,0.7714285714285715
+frequency_rank,,,,1.0,1.0,,0.8857142857142857,0.7714285714285715
+speech_acts_rank,,,,0.8857142857142857,0.8857142857142857,0.8857142857142857,,0.9428571428571428
+words_rank,,,,0.7714285714285715,0.7714285714285715,0.7714285714285715,0.9428571428571428,

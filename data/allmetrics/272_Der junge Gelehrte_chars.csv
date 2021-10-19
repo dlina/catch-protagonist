@@ -1,0 +1,7 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+VALER,0.0,5,1.0,1.0,28,0.3315139983931059,1.0,1.0,14,81,2139,40,11895,1.0,1.0,1.0,4.0,4.0,4.0,5.0,5.0,3.125,0.22596519169363863,4.0,4.0,4.0,5.0,4.5,4.0
+DAMIS,0.0,5,1.0,1.0,48,0.5621721375390716,1.0,1.0,29,287,7923,174,44544,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,1.0,1.0,1.0,2.0,1.5,1.0
+CHRYSANDER,0.0,5,1.0,1.0,23,0.30739070193946366,1.0,1.0,12,149,4223,71,22763,1.0,1.0,1.0,5.0,5.0,5.0,4.0,3.0,3.125,0.23563648607851156,4.0,5.0,5.0,4.0,4.5,4.0
+LISETTE,0.0,5,1.0,1.0,34,0.43086901265980176,1.0,1.0,22,188,4157,126,22545,1.0,1.0,1.0,3.0,3.0,3.0,3.0,4.0,2.375,0.1484668673956776,3.0,3.0,3.0,3.0,3.0,3.0
+ANTON,0.0,5,1.0,1.0,43,0.530544045307816,1.0,1.0,24,299,8021,158,42718,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1.375,0.06469364618834571,2.0,2.0,2.0,1.0,1.5,1.0
+JULIANE,0.0,5,1.0,1.0,10,0.11156533029268806,1.0,1.0,6,34,802,20,4444,1.0,1.0,1.0,6.0,6.0,6.0,6.0,6.0,4.125,0.32346823094172855,6.0,6.0,6.0,6.0,6.0,6.0
