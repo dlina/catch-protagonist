@@ -1,0 +1,6 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+DAMON,0.05555555555555555,4,1.0,1.0,7,0.5775394602691137,1.0,1.0,7,52,1891,25,9722,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.125,0.04419417382415922,1.0,1.0,1.0,1.0,1.0,1.0
+LISETTE,0.0,3,0.8,0.8,4,0.3975840367214559,1.25,1.25,5,50,2608,19,14276,4.0,4.0,4.0,3.0,3.0,2.0,2.0,1.0,2.875,0.1407489533074504,3.0,4.0,4.0,2.0,3.0,3.0
+LEANDER,0.05555555555555555,4,1.0,1.0,5,0.4638867149129692,1.0,1.0,3,39,1730,16,9404,1.0,1.0,1.0,2.0,2.0,3.0,3.0,3.0,2.0,0.11572751247156893,2.0,3.0,2.0,3.0,2.5,2.0
+ORONTE,0.0,3,0.8,0.8,4,0.3975840367214559,1.25,1.25,2,18,1208,2,6489,4.0,4.0,4.0,3.0,3.0,4.0,5.0,4.0,3.875,0.08010874305770696,5.0,2.0,4.0,4.0,4.0,5.0
+DIE WITWE,0.05555555555555555,4,1.0,1.0,4,0.36757469315481783,1.0,1.0,2,24,865,13,4856,1.0,1.0,1.0,3.0,5.0,4.0,4.0,5.0,3.0,0.22160131510697959,4.0,5.0,3.0,4.0,3.5,4.0

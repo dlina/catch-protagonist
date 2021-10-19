@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+UGOLINO,0.0,3,1.0,1.0,14,0.5140048978146472,1.0,1.0,5,180,4953,115,28783,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+GADDO,0.0,3,1.0,1.0,14,0.5140048978146472,1.0,1.0,5,164,1958,132,10689,1.0,1.0,1.0,1.0,1.0,1.0,3.0,4.0,1.625,0.1484668673956776,3.0,3.0,1.0,3.0,2.0,3.0
+FRANCESCO,0.0,3,1.0,1.0,12,0.4554084925291384,1.0,1.0,4,141,3009,90,17333,1.0,1.0,1.0,4.0,4.0,4.0,4.0,3.0,2.75,0.18600595228571123,4.0,4.0,4.0,4.0,4.0,4.0
+ANSELMO,0.0,3,1.0,1.0,14,0.5140048978146472,1.0,1.0,5,243,5199,173,29211,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
