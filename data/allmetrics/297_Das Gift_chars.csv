@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+RINALDO,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,11,500,4,2741,1.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.25,0.08838834764831845,2.0,2.0,1.0,2.0,1.5,2.0
+DER MODERNE ZEITGEIST,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,5,139,2,770,1.0,1.0,1.0,1.0,1.0,1.0,4.0,4.0,1.75,0.1735912687073534,4.0,4.0,1.0,4.0,2.5,4.0
+CLEMENS,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,24,256,20,1340,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.125,0.04419417382415922,1.0,1.0,1.0,1.0,1.0,1.0
+TINE,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,16,193,13,1026,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.375,0.09300297614285562,3.0,3.0,1.0,3.0,2.0,3.0
