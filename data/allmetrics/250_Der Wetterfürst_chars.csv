@@ -1,0 +1,4 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+RODERICH,0.0,2,1.0,1.0,4,0.5773502691896257,1.0,1.0,2,10,83,10,440,1.0,1.0,1.0,1.0,1.0,1.0,3.0,3.0,1.5,0.11572751247156893,3.0,3.0,1.0,3.0,2.0,3.0
+JARRIMO,0.0,2,1.0,1.0,4,0.5773502691896257,1.0,1.0,2,17,117,15,622,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+LISABELLA,0.0,2,1.0,1.0,4,0.5773502691896257,1.0,1.0,2,22,183,21,958,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
