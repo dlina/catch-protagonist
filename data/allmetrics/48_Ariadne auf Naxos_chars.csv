@@ -1,0 +1,4 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+DIE STIMME DER OREADE,0.0,1,0.6666666666666666,0.6666666666666666,1,0,1.5,1.5,1,4,112,16,569,2.0,2.0,2.0,2.0,1.0,2.0,3.0,3.0,2.125,0.08010874305770696,3.0,3.0,2.0,3.0,2.5,3.0
+ARIADNE,1.0,2,1.0,1.0,2,0,1.0,1.0,2,9,1247,29,6966,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+THESEUS,0.0,1,0.6666666666666666,0.6666666666666666,1,0,1.5,1.5,1,5,486,41,2848,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.875,0.04419417382415922,2.0,2.0,2.0,2.0,2.0,2.0
