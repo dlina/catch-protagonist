@@ -1,0 +1,6 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+FERDINAND,0.0,4,1.0,1.0,22,0.5420674480647928,1.0,1.0,14,83,3340,22,18581,1.0,1.0,1.0,2.0,2.0,2.0,2.0,3.0,1.75,0.08838834764831845,2.0,2.0,2.0,2.0,2.0,2.0
+FRAU RICHARDIN,0.0,4,1.0,1.0,11,0.29474775909606293,1.0,1.0,12,81,5425,7,30090,1.0,1.0,1.0,5.0,5.0,3.0,3.0,2.0,2.625,0.21062725200152588,3.0,4.0,5.0,3.0,4.0,4.0
+SIMON,0.0,4,1.0,1.0,16,0.4285116411509044,1.0,1.0,9,74,2694,25,15306,1.0,1.0,1.0,3.0,3.0,4.0,4.0,4.0,2.625,0.17598574414666987,3.0,3.0,3.0,4.0,3.5,3.0
+LORCHEN,0.0,4,1.0,1.0,24,0.5598314817202619,1.0,1.0,15,118,5517,27,30691,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+CHRISTIANCHEN,0.0,4,1.0,1.0,13,0.349647144603566,1.0,1.0,7,58,1766,21,9388,1.0,1.0,1.0,4.0,4.0,5.0,5.0,5.0,3.25,0.23857837885513192,5.0,5.0,4.0,5.0,4.5,5.0

@@ -1,0 +1,9 @@
+rank_name,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank
+degree_rank,,,,,,,,
+closeness_rank,,,,,,,,
+betweenness_rank,,,,,,,,
+strength_rank,,,,,1.0,0.7,0.7,0.4
+eigenvector_centrality_rank,,,,1.0,,0.7,0.7,0.4
+frequency_rank,,,,0.7,0.7,,1.0,0.9
+speech_acts_rank,,,,0.7,0.7,1.0,,0.9
+words_rank,,,,0.4,0.4,0.9,0.9,
