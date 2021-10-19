@@ -1,0 +1,4 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+DER GRÜNE,0.0,2,1.0,1.0,2,0.5773502691896257,1.0,1.0,1,18,745,9,3967,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.125,0.04419417382415922,1.0,1.0,1.0,1.0,1.0,1.0
+JOHANN,0.0,2,1.0,1.0,2,0.5773502691896257,1.0,1.0,1,28,196,26,1040,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.125,0.04419417382415922,1.0,1.0,1.0,1.0,1.0,1.0
+JAKOB,0.0,2,1.0,1.0,2,0.5773502691896257,1.0,1.0,1,18,158,16,844,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.375,0.09300297614285562,3.0,3.0,1.0,3.0,2.0,3.0
