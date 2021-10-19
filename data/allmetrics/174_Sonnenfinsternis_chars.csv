@@ -1,0 +1,7 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+LIPSIUS,0.025,5,1.0,1.0,12,0.3368057677767458,1.0,1.0,3,163,2331,112,14348,1.0,1.0,1.0,5.0,5.0,5.0,5.0,6.0,3.625,0.2749797070434731,4.0,6.0,4.0,5.0,4.5,5.0
+DER PRÄSIDENT DER SEZESSION,0.0,4,0.8333333333333334,0.8333333333333334,4,0.11379328268737285,1.2,1.2,1,67,2375,27,13780,5.0,5.0,5.0,6.0,6.0,6.0,6.0,5.0,5.5,0.0668153104781061,6.0,2.0,6.0,6.0,6.0,6.0
+URL,0.0,4,0.8333333333333334,0.8333333333333334,14,0.4123420902977217,1.2,1.2,4,612,8663,441,52820,5.0,5.0,5.0,4.0,4.0,4.0,2.0,3.0,4.0,0.1336306209562122,5.0,4.0,5.0,3.0,4.0,4.0
+HOLLRIEDER,0.025,5,1.0,1.0,18,0.484281930345143,1.0,1.0,5,663,13544,427,85600,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+LA BELLA CENCI,0.025,5,1.0,1.0,18,0.484281930345143,1.0,1.0,5,530,10744,339,65493,1.0,1.0,1.0,1.0,1.0,1.0,3.0,2.0,1.375,0.09300297614285562,2.0,3.0,1.0,2.0,1.5,2.0
+MUSMANN,0.025,5,1.0,1.0,18,0.484281930345143,1.0,1.0,5,296,4289,211,27516,1.0,1.0,1.0,1.0,1.0,1.0,4.0,4.0,1.75,0.1735912687073534,3.0,5.0,1.0,3.0,2.0,3.0
