@@ -1,0 +1,4 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+TRUDE,0.0,2,1.0,1.0,3,0.6279629441866491,1.0,1.0,3,115,2021,260,10131,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+KURT,0.0,2,1.0,1.0,2,0.45970107837253416,1.0,1.0,1,87,1947,263,9798,1.0,1.0,1.0,3.0,3.0,3.0,3.0,3.0,2.25,0.12938729237669142,3.0,3.0,3.0,3.0,3.0,3.0
+KUNZ,0.0,2,1.0,1.0,3,0.6279629441866491,1.0,1.0,2,165,4745,600,23644,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.125,0.04419417382415922,1.0,1.0,1.0,1.0,1.0,1.0
