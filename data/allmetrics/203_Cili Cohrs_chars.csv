@@ -1,0 +1,6 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+HARM,0.0,1,0.5714285714285714,0.5714285714285714,3,0.5813227206256104,1.75,1.75,3,48,861,33,3987,4.0,4.0,2.0,2.0,2.0,2.0,2.0,3.0,2.625,0.11451567266411304,3.0,3.0,4.0,2.0,3.0,3.0
+HUBERT,0.0,2,0.6666666666666666,0.6666666666666666,2,0.2690416060891962,1.5,1.5,3,21,480,12,2216,2.0,2.0,2.0,3.0,3.0,2.0,5.0,5.0,3.0,0.16366341767699427,4.0,5.0,2.0,4.0,3.0,3.0
+CILI,0.8333333333333333,4,1.0,1.0,6,0.6926389150935243,1.0,1.0,7,124,2180,88,10342,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+EGGERT,0.0,1,0.5714285714285714,0.5714285714285714,1,0.19377424020853679,1.75,1.75,1,23,724,11,3456,4.0,4.0,2.0,5.0,5.0,5.0,4.0,4.0,4.125,0.12387890112063936,5.0,4.0,5.0,5.0,5.0,5.0
+PAULUS,0.0,2,0.6666666666666666,0.6666666666666666,2,0.2690416060891962,1.5,1.5,3,38,1189,14,5723,2.0,2.0,2.0,3.0,3.0,2.0,3.0,2.0,2.375,0.06469364618834571,2.0,2.0,2.0,2.0,2.0,2.0

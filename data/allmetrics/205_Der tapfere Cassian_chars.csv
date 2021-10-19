@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+MARTIN,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,127,1922,95,10564,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+CASSIAN,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,82,1600,56,8945,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+SOPHIE,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,72,937,58,5167,1.0,1.0,1.0,1.0,1.0,1.0,3.0,3.0,1.5,0.11572751247156893,3.0,3.0,1.0,3.0,2.0,3.0
+DER DIENER,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,5,43,4,270,1.0,1.0,1.0,1.0,1.0,1.0,4.0,4.0,1.75,0.1735912687073534,4.0,4.0,1.0,4.0,2.5,4.0

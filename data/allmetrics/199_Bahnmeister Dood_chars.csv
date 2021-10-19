@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+BOTTERWIEV,0.0,3,1.0,1.0,9,0.4234275834509857,1.0,1.0,3,101,3205,51,15099,1.0,1.0,1.0,4.0,4.0,4.0,4.0,4.0,2.875,0.1940809385650371,4.0,4.0,4.0,4.0,4.0,4.0
+HOLTVAAGT,0.0,3,1.0,1.0,11,0.49919025595003874,1.0,1.0,4,127,3568,71,16784,1.0,1.0,1.0,3.0,3.0,3.0,3.0,3.0,2.25,0.12938729237669142,3.0,3.0,3.0,3.0,3.0,3.0
+BAHNWERTER,0.0,3,1.0,1.0,12,0.5345643880475922,1.0,1.0,5,236,5143,153,23799,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+FRU,0.0,3,1.0,1.0,12,0.5345643880475922,1.0,1.0,5,307,5969,207,27738,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
