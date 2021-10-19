@@ -1,0 +1,6 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+ADMET,0.0,4,1.0,1.0,9,0.5334442041757674,1.0,1.0,4,89,3122,474,16477,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1.375,0.06469364618834571,1.0,1.0,2.0,1.0,1.5,1.0
+ALCESTE,0.0,4,1.0,1.0,7,0.4369992016599822,1.0,1.0,3,42,1899,307,10139,1.0,1.0,1.0,3.0,3.0,3.0,4.0,2.0,2.25,0.1456205931276794,3.0,3.0,3.0,3.0,3.0,3.0
+CHOR,0.0,4,1.0,1.0,4,0.2461142152127344,1.0,1.0,1,1,12,2,61,1.0,1.0,1.0,5.0,5.0,5.0,5.0,5.0,3.5,0.25877458475338283,5.0,5.0,5.0,5.0,5.0,5.0
+PARTHENIA,0.0,4,1.0,1.0,10,0.5705631144330247,1.0,1.0,5,70,1885,322,10119,1.0,1.0,1.0,1.0,1.0,1.0,2.0,4.0,1.5,0.1336306209562122,2.0,2.0,1.0,2.0,1.5,1.0
+HERKULES,0.0,4,1.0,1.0,6,0.3719603531272217,1.0,1.0,2,57,1888,287,10179,1.0,1.0,1.0,4.0,4.0,4.0,3.0,3.0,2.625,0.17598574414666987,4.0,4.0,4.0,4.0,4.0,4.0

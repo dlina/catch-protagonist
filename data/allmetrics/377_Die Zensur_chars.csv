@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+KADIDJA,0.0,3,1.0,1.0,6,0.5736356627287008,1.0,1.0,3,64,2509,56,13959,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+DIE ZOFE,0.0,3,1.0,1.0,5,0.49471186871224,1.0,1.0,2,4,50,3,272,1.0,1.0,1.0,3.0,3.0,3.0,4.0,4.0,2.5,0.16366341767699427,3.0,3.0,3.0,4.0,3.5,3.0
+DR CAJETAN PRANTL,0.0,3,1.0,1.0,3,0.31167999590421586,1.0,1.0,1,36,1781,8,11082,1.0,1.0,1.0,4.0,4.0,4.0,3.0,3.0,2.625,0.17598574414666987,4.0,4.0,4.0,3.0,3.5,3.0
+BURIDAN,0.0,3,1.0,1.0,6,0.5736356627287008,1.0,1.0,3,100,4316,49,25444,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
