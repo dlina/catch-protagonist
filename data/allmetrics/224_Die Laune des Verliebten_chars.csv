@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+AMINE,0.16666666666666666,3,1.0,1.0,12,0.6015008315175003,1.0,1.0,8,86,1427,186,7189,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,3.0,1.0,2.0,1.5,2.0
+LAMON,0.0,2,0.75,0.75,6,0.3717482342712008,1.3333333333333333,1.3333333333333333,3,20,321,41,1553,3.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,3.375,0.06469364618834571,4.0,4.0,3.0,4.0,3.5,4.0
+ERIDON,0.0,2,0.75,0.75,6,0.3717482342712008,1.3333333333333333,1.3333333333333333,4,69,988,132,4954,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,0.0,3.0,1.0,3.0,3.0,3.0,3.0
+EGLE,0.16666666666666666,3,1.0,1.0,12,0.6015008315175003,1.0,1.0,7,88,2631,303,13403,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.125,0.04419417382415922,1.0,2.0,1.0,1.0,1.0,1.0
