@@ -1,0 +1,4 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+ERNST,0.0,2,1.0,1.0,11,0.6492291382527197,1.0,1.0,9,165,2113,131,11144,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.375,0.09300297614285562,2.0,2.0,1.0,2.0,1.5,2.0
+SOPHIE,0.0,2,1.0,1.0,11,0.6492291382527197,1.0,1.0,9,166,2129,118,10763,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.125,0.04419417382415922,1.0,1.0,1.0,1.0,1.0,1.0
+MUTTER,0.0,2,1.0,1.0,6,0.39623610649114477,1.0,1.0,4,90,3489,34,18553,1.0,1.0,1.0,3.0,3.0,3.0,3.0,1.0,2.0,0.1336306209562122,3.0,3.0,3.0,3.0,3.0,3.0
