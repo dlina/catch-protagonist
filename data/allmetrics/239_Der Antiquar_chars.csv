@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+DER ALTE NELKEN,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,56,1276,37,7468,1.0,1.0,1.0,1.0,1.0,1.0,3.0,2.0,1.375,0.09300297614285562,3.0,3.0,1.0,3.0,2.0,3.0
+FRAU NELKEN,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,73,3184,36,18436,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+EIN SCHÜLER,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,23,322,12,1862,1.0,1.0,1.0,1.0,1.0,1.0,4.0,4.0,1.75,0.1735912687073534,4.0,4.0,1.0,4.0,2.5,4.0
+SAMUEL,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,60,1276,34,7505,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
