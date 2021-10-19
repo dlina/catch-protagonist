@@ -1,0 +1,4 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+CONSTANTIN,0.0,2,1.0,1.0,2,0.5773502691896257,1.0,1.0,1,13,154,10,948,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+URGROSSMUTTER,0.0,2,1.0,1.0,2,0.5773502691896257,1.0,1.0,1,17,497,7,2795,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+MANELLA,0.0,2,1.0,1.0,2,0.5773502691896257,1.0,1.0,1,3,22,3,154,1.0,1.0,1.0,1.0,1.0,1.0,3.0,3.0,1.5,0.11572751247156893,3.0,3.0,1.0,3.0,2.0,3.0
