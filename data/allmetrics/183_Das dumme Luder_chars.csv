@@ -1,0 +1,6 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+MOSSINO,0.0,4,1.0,1.0,4,0.447213595499958,1.0,1.0,1,4,103,3,592,1.0,1.0,1.0,1.0,1.0,1.0,4.0,2.0,1.5,0.1336306209562122,3.0,3.0,1.0,3.0,2.0,3.0
+KEFINSKA,0.0,4,1.0,1.0,4,0.447213595499958,1.0,1.0,1,7,122,4,637,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.125,0.04419417382415922,1.0,1.0,1.0,1.0,1.0,1.0
+MARIKANNO,0.0,4,1.0,1.0,4,0.447213595499958,1.0,1.0,1,10,73,10,384,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,1.25,0.08838834764831845,2.0,2.0,1.0,2.0,1.5,2.0
+LISSAMÁTSCH,0.0,4,1.0,1.0,4,0.447213595499958,1.0,1.0,1,1,49,0,310,1.0,1.0,1.0,1.0,1.0,1.0,5.0,5.0,2.0,0.23145502494313785,5.0,5.0,1.0,5.0,3.0,5.0
+PASSECK,0.0,4,1.0,1.0,4,0.447213595499958,1.0,1.0,1,7,54,6,328,1.0,1.0,1.0,1.0,1.0,1.0,2.0,4.0,1.5,0.1336306209562122,3.0,3.0,1.0,3.0,2.0,3.0
