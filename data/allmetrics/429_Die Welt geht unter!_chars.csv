@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+DER ERZENGEL GABRIEL,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,6,161,3,886,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+EIN MILLIONÄR,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,2,7,2,38,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.375,0.09300297614285562,3.0,3.0,1.0,3.0,2.0,3.0
+EIN REGIERUNGSBEAMTER,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,2,14,2,77,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
+DIE AUFGEREGTEN LEUTE,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,1,5,1,25,1.0,1.0,1.0,1.0,1.0,1.0,4.0,4.0,1.75,0.1735912687073534,4.0,4.0,1.0,4.0,2.5,4.0
