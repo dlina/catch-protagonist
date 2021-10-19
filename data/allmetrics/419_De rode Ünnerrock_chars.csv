@@ -1,0 +1,6 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+JÜLF,0.0,4,1.0,1.0,13,0.4316046196453528,1.0,1.0,4,460,4492,374,19732,1.0,1.0,1.0,2.0,2.0,2.0,2.0,4.0,1.875,0.12387890112063936,2.0,3.0,2.0,2.0,2.0,2.0
+OHM,0.0,4,1.0,1.0,13,0.4316046196453528,1.0,1.0,4,262,5670,151,26906,1.0,1.0,1.0,2.0,2.0,2.0,5.0,2.0,2.0,0.16366341767699427,5.0,4.0,2.0,4.0,3.0,4.0
+BOHLE,0.0,4,1.0,1.0,13,0.4316046196453528,1.0,1.0,4,733,7304,642,33434,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1.375,0.06469364618834571,1.0,1.0,2.0,1.0,1.5,1.0
+PASTER,0.0,4,1.0,1.0,16,0.5048463223627183,1.0,1.0,5,270,4287,194,20060,1.0,1.0,1.0,1.0,1.0,1.0,4.0,5.0,1.875,0.2052600702245116,2.0,5.0,1.0,5.0,3.0,4.0
+MAIKE,0.0,4,1.0,1.0,13,0.4316046196453528,1.0,1.0,4,333,4703,246,21253,1.0,1.0,1.0,2.0,2.0,2.0,3.0,3.0,1.875,0.10431537004953502,2.0,2.0,2.0,2.0,2.0,2.0
