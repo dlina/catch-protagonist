@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+LISISKA,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,14,933,156,4999,1.0,1.0,1.0,1.0,1.0,1.0,3.0,3.0,1.5,0.11572751247156893,3.0,3.0,1.0,3.0,2.0,3.0
+HERR KÖNIG,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,13,748,96,4069,1.0,1.0,1.0,1.0,1.0,1.0,4.0,4.0,1.75,0.1735912687073534,4.0,4.0,1.0,4.0,2.5,4.0
+CASTI PIANI,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,68,3597,20,22354,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+ELFRIEDE,0.0,3,1.0,1.0,3,0.5,1.0,1.0,1,65,2663,26,15707,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0

@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+UNSICHTBARER CHOR,0.0,2,0.75,0.75,3,0.3212849725710749,1.3333333333333333,1.3333333333333333,2,5,98,21,579,2.0,2.0,2.0,3.0,3.0,4.0,4.0,4.0,3.0,0.11572751247156893,3.0,4.0,3.0,4.0,3.5,3.0
+ROSALINDE,0.6666666666666666,3,1.0,1.0,8,0.6569158140528495,1.0,1.0,9,98,2823,66,15535,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+DOKTOR FAUST,0.0,2,0.75,0.75,7,0.6468443053769195,1.3333333333333333,1.3333333333333333,9,76,1920,68,10914,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.875,0.04419417382415922,2.0,2.0,2.0,2.0,2.0,2.0
+FRIZ,0.0,1,0.6,0.6,2,0.21640245897109434,1.6666666666666667,1.6666666666666667,3,29,497,23,2686,4.0,4.0,2.0,4.0,4.0,3.0,3.0,3.0,3.375,0.09300297614285562,4.0,3.0,4.0,3.0,3.5,3.0
