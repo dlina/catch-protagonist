@@ -1,0 +1,7 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+FRAU VON BERG,0.0,5,1.0,1.0,7,0.3353173716352989,1.0,1.0,3,46,690,36,3717,1.0,1.0,1.0,4.0,5.0,4.0,4.0,3.0,2.875,0.2052600702245116,4.0,3.0,5.0,3.0,4.0,4.0
+BARON,0.0,5,1.0,1.0,11,0.4853410478378063,1.0,1.0,5,55,1108,30,6503,1.0,1.0,1.0,2.0,2.0,3.0,2.0,2.0,1.75,0.08838834764831845,2.0,1.0,2.0,2.0,2.0,1.0
+KARL,0.0,5,1.0,1.0,9,0.43428613057457716,1.0,1.0,8,105,1900,58,37196,1.0,1.0,1.0,3.0,3.0,1.0,1.0,1.0,1.5,0.11572751247156893,1.0,2.0,3.0,1.0,2.0,1.0
+MALCHEN,0.0,5,1.0,1.0,12,0.5177082930140822,1.0,1.0,7,54,462,50,2632,1.0,1.0,1.0,1.0,1.0,2.0,3.0,6.0,2.0,0.22160131510697959,3.0,4.0,1.0,3.0,2.0,1.0
+FÜRST,0.0,5,1.0,1.0,6,0.2842360434282344,1.0,1.0,2,38,588,24,3556,1.0,1.0,1.0,6.0,6.0,6.0,5.0,5.0,3.875,0.302057675429237,6.0,6.0,6.0,6.0,6.0,6.0
+HANS,0.0,5,1.0,1.0,7,0.33851126911014995,1.0,1.0,3,23,638,12,3376,1.0,1.0,1.0,4.0,4.0,4.0,6.0,4.0,3.125,0.23563648607851156,5.0,5.0,4.0,5.0,4.5,5.0
