@@ -1,0 +1,5 @@
+name,betweenness,degree,closeness,closeness_corrected,strength,eigenvector_centrality,avg_distance,avg_distance_corrected,frequency,speech_acts,words,lines,chars,degree_rank,closeness_rank,betweenness_rank,strength_rank,eigenvector_centrality_rank,frequency_rank,speech_acts_rank,words_rank,centrality_rank_avg,centrality_rank_std,centrality_rank_avg_rank,centrality_rank_std_rank,avg_graph_rank,avg_content_rank,overall_avg,overall_avg_rank
+ACHATIUS,0.0,3,1.0,1.0,8,0.5251433378376349,1.0,1.0,3,38,1890,46,7551,1.0,1.0,1.0,1.0,1.0,1.0,4.0,3.0,1.625,0.1484668673956776,3.0,3.0,1.0,3.0,2.0,3.0
+AMBROSIA,0.0,3,1.0,1.0,6,0.4155399188697074,1.0,1.0,2,40,1371,48,5659,1.0,1.0,1.0,4.0,4.0,4.0,3.0,4.0,2.75,0.18600595228571123,4.0,4.0,4.0,4.0,4.0,4.0
+IRMA,0.0,3,1.0,1.0,8,0.5251433378376349,1.0,1.0,3,252,6835,286,28851,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+VINCENZ,0.0,3,1.0,1.0,8,0.5251433378376349,1.0,1.0,3,222,5839,267,24818,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.25,0.057863756235784464,2.0,2.0,1.0,2.0,1.5,2.0
